@@ -26,59 +26,6 @@ p{
     text-align: center;
 }
 
-.button {
-    padding: 10px 20px;
-    margin-left: 10px;
-    margin-right: 10px;
-    border-radius: 50px;
-    cursor: pointer;
-    border: 0;
-    background-color: white;
-    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    font-size: 15px;
-    transition: all 0.5s ease;
-}
-
-.button:hover {
-    background-color: hsl(223, 80%, 48%);
-    color: hsl(0, 0%, 100%);
-    box-shadow: rgb(24, 80, 220) 0px 7px 29px 0px;
-}
-
-.button:active {
-    background-color: hsl(261deg 80% 48%);
-    color: hsl(0, 0%, 100%);
-    box-shadow: rgb(93 24 220) 0px 0px 0px 0px;
-    transform: translateY(10px);
-    transition: 100ms;
-}
-
-
-#swatch{
-    background: white;
-    box-shadow: 1em 1em 1em rgba(0, 0, 0, .1);
-    display: flex;
-    flex-direction: column;
-    width: 100px;
-    height: 50px;
-}
-
-#swatch .info{
-    padding: 1em;
-}
-
-#swatch h1{
-    margin: 0;
-    text-transform: uppercase;
-}
-
-#swatch h2{
-    font-weight: normal;
-    margin: 0;
-}
-
 input{
     appearance: none;
     -moz-appearance: none;
@@ -86,10 +33,11 @@ input{
     background: none;
     border: 0;
     cursor: pointer;
-    height: 50px;
+    height: 35px;
     padding: 6px;
     width: 275px;
     border-radius: 50px;
+    padding-left: 30px;
 }
 
 *:focus{
