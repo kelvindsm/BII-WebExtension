@@ -23,10 +23,10 @@ Esta extensão fornece uma ferramenta simples e útil para usuários, desenvolve
 5. O código hexadecimal da cor selecionada será mostrado e poderá ser copiado. Caso precise de outro código de cor, selecione as setinhas até selecionar a opção desejada
 
 ## Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- Web Extensions
+<div style="display: inline_block">
+  <img align="center" alt="Kelvin-html" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Kelvin-css3" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Kelvin-webstorm" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
   
 ## Contribuindo
 
